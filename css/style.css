@@ -1,0 +1,4 @@
+.firstpost{position:relative;margin-bottom:15px;}
+.firstpost h2{position:absolute;bottom:10px;width:96%;text-align:center}
+.bw-featured-image img.wp-post-image{width:100%}
+.bw-featured-image:hover img{filter:brightness(50%); transition:all 0.3s;}
